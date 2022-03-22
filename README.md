@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Yoon&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yoon&fontSize=50)
 ## 💪 Skills
 #### Platforms & Languages
 <div>
