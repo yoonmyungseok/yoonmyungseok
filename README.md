@@ -1,4 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yoon&fontSize=50)
+
+- 📫 How to reach me **yoonms5319@gmail.com**
+
 ## 💪 My Skills
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
@@ -10,4 +13,5 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonmyungseok&layout=compact)](https://github.com/yoonmyungseok/github-readme-stats)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yoonmyungseok&show_icons=true&locale=en&layout=compact" alt="yoonmyungseok" /></p>
